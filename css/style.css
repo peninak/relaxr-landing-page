@@ -155,6 +155,7 @@ span.property {
 }
 
 ul {
+  	list-style: disc inside;
 	padding-left: 100px;
 	color: #606161;
 	font-weight: 300;
